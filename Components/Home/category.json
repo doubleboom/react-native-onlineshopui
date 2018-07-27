@@ -1,0 +1,106 @@
+[
+    [
+        {
+            "title": "美食",
+            "icon": "ms",
+            "url":"baidu.com"
+        },
+        {
+            "title": "电影",
+            "icon": "dy",
+            "url": "baidu.com"
+        },
+        {
+            "title": "酒店",
+            "icon": "jd",
+            "url": "baidu.com"
+        },
+        {
+            "title": "休闲娱乐",
+            "icon": "xxyl",
+            "url": "baidu.com"
+        },
+        {
+            "title": "外卖",
+            "icon": "wm",
+            "url": "baidu.com"
+        },
+        {
+            "title": "自助餐",
+            "icon": "zzc",
+            "url": "baidu.com"
+        },
+        {
+            "title": "KTV",
+            "icon": "ktv",
+            "url": "baidu.com"
+        },
+        {
+            "title": "火车票机票",
+            "icon": "hcpjp",
+            "url": "baidu.com"
+        },
+        {
+            "title": "丽人",
+            "icon": "lr",
+            "url": "baidu.com"
+        },
+        {
+            "title": "周边游",
+            "icon": "zby",
+            "url": "baidu.com"
+        }
+    ],
+    [
+        {
+            "title": "足疗按摩",
+            "icon": "zlam",
+            "url": "baidu.com"
+        },
+        {
+            "title": "购物",
+            "icon": "gw",
+            "url": "baidu.com"
+        },
+        {
+            "title": "今日新单",
+            "icon": "jrxd",
+            "url": "baidu.com"
+        },
+        {
+            "title": "小吃快餐",
+            "icon": "xckc",
+            "url": "baidu.com"
+        },
+        {
+            "title": "生活服务",
+            "icon": "shfw",
+            "url": "baidu.com"
+        },
+        {
+            "title": "甜点饮品",
+            "icon": "tdyp",
+            "url": "baidu.com"
+        },
+        {
+            "title": "美甲",
+            "icon": "mj",
+            "url": "baidu.com"
+        },
+        {
+            "title": "景点门票",
+            "icon": "jdmp",
+            "url": "baidu.com"
+        },
+        {
+            "title": "旅游",
+            "icon": "ly",
+            "url": "baidu.com"
+        },
+        {
+            "title": "全部分类",
+            "icon": "qbfl",
+            "url": "baidu.com"
+        }
+    ]
+]
